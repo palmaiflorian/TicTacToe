@@ -1,0 +1,14 @@
+
+g	java:S112L"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8˜®ç÷»1
+0
+java:S1220""Move this file to a named package.
+:
+java:S1118Q"Hide this public constructor.(ßôü¬8£„ì÷»1
+<
+java:S3010R"Remove this assignment of "ai".(‹¼Ù’8×®ç÷»1
+D
+java:S3010U""Remove this assignment of "frame".(½ô»Úÿÿÿÿÿ8¢°­º1
+?
+java:S3010X""Remove this assignment of "cards".(ì¬¿ş8¢°­º1
+f
+java:S3252V"IUse static access with "javax.swing.WindowConstants" for "EXIT_ON_CLOSE".(¢¡´8§¢°­º1
